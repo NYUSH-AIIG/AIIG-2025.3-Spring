@@ -9,7 +9,6 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 **Incoming**
 |Date|Time|Type|Topic|Speakers|Place|
 |:--|:--|:--|:--|:--|:--|
-|Week 3.3|TBD|Seminar|Adaptive Inference-time Compute|Yufeng(Felix) Xu|Online|
 |Week 3.10|TBD|Seminar|From MHA to MLA|Xin(Tony) Teng|Online|
 |Week 3.17|TBD|Seminar|Vision-Tactile Reinforcement Learning|Zifan(Eric) Zhao|Online|
 |Week 3.24|||Spring Break|||
@@ -24,6 +23,7 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 **Past Events**
 |Date|Time|Type|Topic|Slides|Recording|Extra Resources|Speakers|Place|
 |:--|:--|:--|:--|:--|:--|:--|:--|:-|
+|3.5|10-11pm (CST)|Seminar|Adaptive Inference-time Compute|[Slides](https://docs.google.com/presentation/d/1FML-K1tF_hYIFXignJgqz6oI3N249oDTJBAdYyVqEwg/edit)|[Recording](https://drive.google.com/file/d/1-APIHGmV7iR4G2CnR4ld52L5sDR5Tvdv/view?usp=drive_link)|/|Yufeng(Felix) Xu|Online|
 
 
 ## Call for Speakers
