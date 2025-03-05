@@ -14,7 +14,7 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 |Week 3.17|TBD|Seminar|Vision-Tactile Reinforcement Learning|Zifan(Eric) Zhao|Online|
 |Week 3.24|||Spring Break|||
 |Week 3.31|||Spring Break|||
-|Week 4.7|TBD|Seminar|Protein Reconstructiona|Hongjia(Alex) Huang|Online|
+|Week 4.7|TBD|Seminar|Protein Reconstruction|Hongjia(Alex) Huang|Online|
 |Week 4.14|TBD|Seminar|TBD|Jinnuo(Jim) Liu|Online|
 |Week 4.21|TBD|Seminar|TBD|Linxi(Cissy) Xie|Online|
 |Week 4.28||Seminar||||
