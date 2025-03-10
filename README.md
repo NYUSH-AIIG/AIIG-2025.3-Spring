@@ -9,14 +9,14 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 **Incoming**
 |Date|Time|Type|Topic|Speakers|Place|
 |:--|:--|:--|:--|:--|:--|
-|Week 3.10|TBD|Seminar|From MHA to MLA|Xin(Tony) Teng|Online|
-|Week 3.17|TBD|Seminar|Vision-Tactile Reinforcement Learning|Zifan(Eric) Zhao|Online|
+|Week 3.10|TBD|Seminar|Multihead Latent Attention|Xin(Tony) Teng|Online|
+|Week 3.17|TBD|Seminar|Multihead Linear Attention|Xin(Tony) Teng|Online| 
 |Week 3.24|||Spring Break|||
 |Week 3.31|||Spring Break|||
-|Week 4.7|TBD|Seminar|Protein Reconstruction|Hongjia(Alex) Huang|Online|
+|Week 4.7|TBD|Seminar|Vision-Tactile Reinforcement Learning|Zifan(Eric) Zhao|Online|
 |Week 4.14|TBD|Seminar|TBD|Jinnuo(Jim) Liu|Online|
 |Week 4.21|TBD|Seminar|TBD|Linxi(Cissy) Xie|Online|
-|Week 4.28||Seminar||||
+|Week 4.28|TBD|Seminar|Protein Reconstruction|Hongjia(Alex) Huang|Online|
 |Week 5.5|TBD|Seminar|TBD|Zhuoran(Jolia) Chen|Online|
 
 
