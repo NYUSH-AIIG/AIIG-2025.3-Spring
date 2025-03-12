@@ -23,7 +23,8 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 **Past Events**
 |Date|Time|Type|Topic|Slides|Recording|Extra Resources|Speakers|Place|
 |:--|:--|:--|:--|:--|:--|:--|:--|:-|
-|3.5|10-11pm (CST)|Seminar|Adaptive Inference-time Compute|[Slides](https://docs.google.com/presentation/d/1FML-K1tF_hYIFXignJgqz6oI3N249oDTJBAdYyVqEwg/edit)|[Recording](https://drive.google.com/file/d/1-APIHGmV7iR4G2CnR4ld52L5sDR5Tvdv/view?usp=drive_link)|/|Yufeng(Felix) Xu|Online|
+|3.5|10-11am (CST)|Seminar|Adaptive Inference-time Compute|[Slides](https://docs.google.com/presentation/d/1FML-K1tF_hYIFXignJgqz6oI3N249oDTJBAdYyVqEwg/edit)|[Recording](https://drive.google.com/file/d/1-APIHGmV7iR4G2CnR4ld52L5sDR5Tvdv/view?usp=drive_link)|/|Yufeng(Felix) Xu|Online|
+|3.12|10-11am (CST)|Seminar|What's next for MHA? Part I.|[Slides](https://docs.google.com/presentation/d/1mieDvKf2kccOEVU7rXJXPGqg8IdDIIfESici3jEpLZ0/edit#slide=id.g806743487f_0_7)|[Recording](https://nyu.zoom.us/rec/share/cudfEJvR7KofR8P5Lml6err_w4VwTDW8k8prtD8h3-XNwSgf5O3uquQnqHk3MTQT.9rrFnNCukHOma-l5)|/|Xin(Tony) Teng|Online|
 
 
 ## Call for Speakers
