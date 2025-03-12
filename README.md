@@ -9,7 +9,6 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 **Incoming**
 |Date|Time|Type|Topic|Speakers|Place|
 |:--|:--|:--|:--|:--|:--|
-|Week 3.10|TBD|Seminar|Multihead Latent Attention|Xin(Tony) Teng|Online|
 |Week 3.17|TBD|Seminar|Multihead Linear Attention|Xin(Tony) Teng|Online| 
 |Week 3.24|||Spring Break|||
 |Week 3.31|||Spring Break|||
