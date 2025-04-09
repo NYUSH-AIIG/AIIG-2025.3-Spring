@@ -9,7 +9,7 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 **Incoming**
 |Date|Time|Type|Topic|Speakers|Place|
 |:--|:--|:--|:--|:--|:--|
-|4.8|10-11pm EST|Seminar|Vision-Tactile Reinforcement Learning|Zifan(Eric) Zhao|Online|
+|4.9|10-11pm EST|Seminar|Vision-Tactile Reinforcement Learning|Zifan(Eric) Zhao|Online|
 |Week 4.14|TBD|Seminar|TBD|Jinnuo(Jim) Liu|Online|
 |Week 4.21|TBD|Seminar|TBD|Linxi(Cissy) Xie|Online|
 |Week 4.28|TBD|Seminar|Protein Reconstruction|Hongjia(Alex) Huang|Online|
