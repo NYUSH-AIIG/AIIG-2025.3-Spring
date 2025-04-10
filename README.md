@@ -9,7 +9,6 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 **Incoming**
 |Date|Time|Type|Topic|Speakers|Place|
 |:--|:--|:--|:--|:--|:--|
-|4.9|10-11pm EST|Seminar|Vision-Tactile Reinforcement Learning|Zifan(Eric) Zhao|Online|
 |Week 4.14|TBD|Seminar|TBD|Jinnuo(Jim) Liu|Online|
 |Week 4.21|TBD|Seminar|TBD|Linxi(Cissy) Xie|Online|
 |Week 4.28|TBD|Seminar|Protein Reconstruction|Hongjia(Alex) Huang|Online|
@@ -24,6 +23,7 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 |3.19|10-11am (CST)|Seminar|What's next for MHA? Part II.|[Slides](https://docs.google.com/presentation/d/1JhBsERAeqWjIpLzqKooUfqx5KoX5URMIrXHqmmPrnPc/edit?usp=sharing)|[Recording](https://nyu.zoom.us/rec/share/oFlw4Y6hQ957LUp841VWYlJvQGQYXNV9iWm8xrNwFJT-ap7Eh9JM0smTq3V_tfCE.EjUqmAckI2kiARUh)|/|Xin(Tony) Teng|Online|
 |Week 3.24|/|/|Spring Break(is over!)|/|/|/|/|mostly Puerto Rico|
 |Week 3.31|/|/|Spring Break(is over!)|/|/|/|/|mostly Japan|
+|4.9|10-11pm (EST)|Seminar|Vision-Tactile Reinforcement Learning|[Slides]()|[Recording](https://nyu.zoom.us/recording/detail?meeting_id=RpxIRsnpQluh2hlHVzqa4g%3D%3D&show_share=true)|/|Zifan(Eric) Zhao|Online|
 
 
 ## Call for Speakers
