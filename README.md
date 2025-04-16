@@ -9,8 +9,8 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 **Incoming**
 |Date|Time|Type|Topic|Speakers|Place|
 |:--|:--|:--|:--|:--|:--|
-|Week 4.14|TBD|Seminar|TBD|Jinnuo(Jim) Liu|Online|
-|Week 4.21|TBD|Seminar|TBD|Linxi(Cissy) Xie|Online|
+|4.17|10-11am(CST)|Seminar|TBD|Linxi(Cissy) Xie|Online|
+|Week 4.21|TBD|Seminar|TBD|Jinnuo(Jim) Liu|Online|
 |Week 4.28|TBD|Seminar|Protein Reconstruction|Hongjia(Alex) Huang|Online|
 |Week 5.5|TBD|Seminar|TBD|Zhuoran(Jolia) Chen|Online|
 
