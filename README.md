@@ -21,9 +21,9 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 |3.19|10-11am (CST)|Seminar|What's next for MHA? Part II.|[Slides](https://docs.google.com/presentation/d/1JhBsERAeqWjIpLzqKooUfqx5KoX5URMIrXHqmmPrnPc/edit?usp=sharing)|[Recording](https://nyu.zoom.us/rec/share/oFlw4Y6hQ957LUp841VWYlJvQGQYXNV9iWm8xrNwFJT-ap7Eh9JM0smTq3V_tfCE.EjUqmAckI2kiARUh)|/|Xin(Tony) Teng|Online|
 |Week 3.24|/|/|Spring Break(is over!)|/|/|/|/|mostly Puerto Rico|
 |Week 3.31|/|/|Spring Break(is over!)|/|/|/|/|mostly Japan|
-|4.9|10-11pm (EST)|Seminar|Vision-Tactile Reinforcement Learning|[Slides]()|[Recording](https://nyu.zoom.us/rec/share/loqfnZgdqiFsfrkamF8Hr3tcOvIzQRJpiFN-un3vgzctQk8jgy7S3OFS3qf3EHnH.gKi2jf4c2lCJHzp0?startTime=1744250654000)|/|Zifan(Eric) Zhao|Online|
-|4.17|10-11am(CST)|Seminar|Individual Preference Learning for Image Lora|[Slides]()|[Recording](https://nyu.zoom.us/rec/share/HCkvyVsQBfCYyvzyKuQkhlEwi_vdeB9KJGFx6zG6SeBcTDhfbFgKhny2BW2OqBp5.K9GXDBnV-bVOSO_s)|/|Linxi(Cissy) Xie|Online|
-|4.25|10-11am(CST)|Seminar|Molecular Tasks with LM/Diffusion Methods|[Slides]()|[Recording](https://nyu.zoom.us/rec/share/mAJhjBGgq5o8d8pjfnsd6r2OdCwiEQTw-2-kEv-fA9m38ZmBEUPyEmq26bsrORYZ.iYzEurdja3uFvM5t)|/|Hongjia(Alex) Huang|Online|
+|4.9|10-11pm (EST)|Seminar|Vision-Tactile Reinforcement Learning|[Slides](https://drive.google.com/drive/folders/1V8YC-Vfcs_SCR1jLGeo_d8ijEyePQE2o)|[Recording](https://nyu.zoom.us/rec/share/loqfnZgdqiFsfrkamF8Hr3tcOvIzQRJpiFN-un3vgzctQk8jgy7S3OFS3qf3EHnH.gKi2jf4c2lCJHzp0?startTime=1744250654000)|/|Zifan(Eric) Zhao|Online|
+|4.17|10-11am(CST)|Seminar|Individual Preference Learning for Image Lora|[Slides](https://docs.google.com/presentation/d/1R4xHuaD0Lpo-LM4ovetx0-DpuO2D9yI2KzfiU5IydKQ/edit?slide=id.g2e56eef0d74_0_0#slide=id.g2e56eef0d74_0_0)|[Recording](https://nyu.zoom.us/rec/share/HCkvyVsQBfCYyvzyKuQkhlEwi_vdeB9KJGFx6zG6SeBcTDhfbFgKhny2BW2OqBp5.K9GXDBnV-bVOSO_s)|/|Linxi(Cissy) Xie|Online|
+|4.25|10-11am(CST)|Seminar|Molecular Tasks with LM/Diffusion Methods|[Slides](https://docs.google.com/presentation/d/1v4NLJlaV_jZ-8DDXj72VXSsj1CgUs7HCS8z9bjbp5Dw/edit?slide=id.g34e40d8d522_0_474#slide=id.g34e40d8d522_0_474)|[Recording](https://nyu.zoom.us/rec/share/mAJhjBGgq5o8d8pjfnsd6r2OdCwiEQTw-2-kEv-fA9m38ZmBEUPyEmq26bsrORYZ.iYzEurdja3uFvM5t)|/|Hongjia(Alex) Huang|Online|
 
 
 ## Call for Speakers
