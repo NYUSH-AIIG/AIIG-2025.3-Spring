@@ -9,8 +9,7 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 **Incoming**
 |Date|Time|Type|Topic|Speakers|Place|
 |:--|:--|:--|:--|:--|:--|
-|Week 4.21|TBD|Seminar|TBD|Jinnuo(Jim) Liu|Online|
-|Week 4.28|TBD|Seminar|Protein Reconstruction|Hongjia(Alex) Huang|Online|
+|Week 4.28|TBD|Seminar|TBD|Jinnuo(Jim) Liu|Online|
 |Week 5.5|TBD|Seminar|TBD|Zhuoran(Jolia) Chen|Online|
 
 
@@ -24,6 +23,7 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 |Week 3.31|/|/|Spring Break(is over!)|/|/|/|/|mostly Japan|
 |4.9|10-11pm (EST)|Seminar|Vision-Tactile Reinforcement Learning|[Slides]()|[Recording](https://nyu.zoom.us/rec/share/loqfnZgdqiFsfrkamF8Hr3tcOvIzQRJpiFN-un3vgzctQk8jgy7S3OFS3qf3EHnH.gKi2jf4c2lCJHzp0?startTime=1744250654000)|/|Zifan(Eric) Zhao|Online|
 |4.17|10-11am(CST)|Seminar|Individual Preference Learning for Image Lora|[Slides]()|[Recording](https://nyu.zoom.us/rec/share/HCkvyVsQBfCYyvzyKuQkhlEwi_vdeB9KJGFx6zG6SeBcTDhfbFgKhny2BW2OqBp5.K9GXDBnV-bVOSO_s)|/|Linxi(Cissy) Xie|Online|
+|4.25|10-11am(CST)|Seminar|Molecular Tasks with LM/Diffusion Methods|[Slides]()|[Recording](https://nyu.zoom.us/rec/share/mAJhjBGgq5o8d8pjfnsd6r2OdCwiEQTw-2-kEv-fA9m38ZmBEUPyEmq26bsrORYZ.iYzEurdja3uFvM5t)|/|Hongjia(Alex) Huang|Online|
 
 
 ## Call for Speakers
